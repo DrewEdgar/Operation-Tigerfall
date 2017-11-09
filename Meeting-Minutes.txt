@@ -1,0 +1,23 @@
+Game dev notes – Thursday November 9th, 2017
+-	Complete Section 1, (we may watch some already)
+-	Game concepts
+  o	Simple game ideas – like Blek, a puzzle game or like Line Rider
+  o	Low graphics footprint
+  o	Some physics possibly like line rider just to add more challenge or depth
+  o	PC Based initially, IOS final
+-	KISS to start
+-	Github repo to share code (Drew will make and invite us)
+-	Goals
+  o	Motivation/drive to keep at this
+  o	Build something real
+    	Test games like above
+    	Yul Boardgame type design
+  o	Expand skillset
+    	3D Animation – KB
+    	Learning how the pieces work together -DE
+    	Everything in general for everyone (learn what were good at, like, etc..)
+-	Thursday sessions
+  o	Review past material, challenges, questions
+  o	Show and tell
+  o	Shared programming, pick a piece to make, pair up or team up if 3 or less to work through it.
+  o	Food -> plan and order or Ask cathy nicely
