@@ -21,3 +21,33 @@ Game dev notes – Thursday November 9th, 2017
   o	Show and tell
   o	Shared programming, pick a piece to make, pair up or team up if 3 or less to work through it.
   o	Food -> plan and order or Ask cathy nicely
+
+
+Game dev notes - Thursday November 23, 2017
+- Show and tell lesson 1, Yuls Lesson 2
+- Everyone to complete up to module 40 in course for next meeting (thats section 3, # 40)
+- Game concepts
+  - Yul
+    - Will bring concept game next time
+    - Deck of cards A-K (13 cards) - 4 suits.  Playing the game of war...sorta
+    - Every card has special abilities (like assassin, spy, king, etc..)
+    - Each player has 13 cards, concept of game is to capture deck.
+    - Example abilities - King beats any card, but if last card on your side, you lose
+                        - Queen can capture a king
+                        - Can be like love letter idea..draw a few and play. both players reveal
+                          at same time
+                        - Cards may say 'will lose to everything, but beat same of other color'
+    - 2D game, basic game loop, scoring, could expand multiple players 2-6 (Crowns and Anchors)
+  - Keith
+    - 2D or 3D possible ( maybe changes part way through )
+    - Puzzle game - touch screen - flick, tap.  tablet format.  
+    - player is an orb.  play area is a maze, initially visible then goes black. glow around orb
+    - player has to flick orb out to exit of maze.
+    - specials (power ups, locks, tricks, magnets )
+    - Level design, escalation
+  - Drew showed us the worst puzzle game ever..... (http://www.deathball.net/notpron)
+  - Tyler - million dollar idea coming soon (tm)
+  
+  
+    
+  
