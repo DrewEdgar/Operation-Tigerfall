@@ -1,0 +1,23 @@
+Rogue like maze game
+
+2d with 3d perspective
+Turnbased Single Player
+
+Josh could make music potentially
+
+field of vision fog of war
+camera control zoom and move around map
+avatar control - awsd 
+interation pickup - use
+hotbar? inventory system with volumetric limits
+
+game loop is not continuous, its a turn base, so process on turns.
+character stats?  stamina  and maybe hazard stat that represents oxygen or other things depending on hazard. 
+visually we just have stamina on gui and show hazard bar when applied, some items override hazard (ie oxygen tank underwater...)
+
+Future - Procedurally generated maze. for now we will make a static maze
+
+determine ideas for items, traps, terrain
+
+Single player to start (Multiplayer? maybe?)
+
