@@ -23,3 +23,4 @@ Single player to start (Multiplayer? maybe?)
 
 Drew to revisit Unity for next 2 weeks
 Keith working through Blender, make some basic block assets for Walls (Corner, Door, Opening, Straight), PC Avatar, Powerups
+think of items, objects, traps etc..
